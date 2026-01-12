@@ -1,0 +1,10 @@
+name: ZweifelEntitys
+version: 1.0
+main: de.zweifelnder.zweifelentitys.Main
+api-version: 1.21
+
+commands:
+  entityspawn:
+    description: Spawnt eine Entity mit optionalem Namen
+    usage: /entityspawn <entity> [name]
+    permission: zweifelentitys.use
